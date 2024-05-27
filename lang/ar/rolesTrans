@@ -1,0 +1,6 @@
+<?php
+return [
+    'manag' =>'Welcome you are manager!',
+    'supp' =>'Welcome you are Support!',
+    'cust' =>'Welcome you are Customer!',
+];
